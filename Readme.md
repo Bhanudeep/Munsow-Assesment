@@ -15,9 +15,9 @@ I have created UI modules to make use of the functionalities of this application
 Instructions to run  the application locally: \
 Install MongoDb locally and Set environment variable of mongodb to path.\
 Install Python 3 and install flask framework and pymongo package using pip \
-pip install flask \
-pip install pymongo \
-pip install flask_pymongo 
+'pip install flask' \
+'pip install pymongo' \
+'pip install flask_pymongo' 
 
 After successful installation of all the dependencies proceed to run the application using command "python server.py" .
 
