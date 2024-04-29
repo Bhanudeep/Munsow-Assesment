@@ -1,0 +1,38 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "answer": "Paris",
+        "difficulty_level": "Easy",
+        "tags": ["Geography", "Countries", "Capitals"]
+    },
+    {
+        "question": "Who wrote 'Romeo and Juliet'?",
+        "answer": "William Shakespeare",
+        "difficulty_level": "Medium",
+        "tags": ["Literature", "Authors", "Drama"]
+    },
+    {
+        "question": "What is the powerhouse of the cell?",
+        "answer": "Mitochondria",
+        "difficulty_level": "Hard",
+        "tags": ["Biology", "Cells", "Organelles"]
+    },
+    {
+        "question": "What is the capital of India?",
+        "answer": "Delhi",
+        "difficulty_level": "Easy",
+        "tags": ["Geography", "Countries", "Capitals"]
+    },
+    {
+        "question": "Who wrote Harry Potter?",
+        "answer": "J.K.Rowling",
+        "difficulty_level": "Medium",
+        "tags": ["Literature", "Authors", "Drama"]
+    },
+    {
+        "question": "What is Full form of GPT",
+        "answer": "Generative Pre-trained Transformer.",
+        "difficulty_level": "Hard",
+        "tags": ["Biology", "Cells", "Organelles"]
+    }
+]
